@@ -36,7 +36,7 @@ _**1.d Usability Review**_
 
 En general la página cuenta con varias deficiencias como lo son, carencia de buscador, falta de funcionalidad para reservar una oficina a través de la web, presupuestos y además contiene información redundante. Encontramos también páginas demasiado largas en las que se pierde mucho tiempo haciendo scroll.
 
-Algo más que encontramos en la aplicación es la carencia de ayuda en línea simplemente un número al que se puede escribir por whatsapp o un correo electrónico al que escribir. No disponemos de varios idioma alternativo ni información sobre la accesibilidad.
+Algo más que encontramos en la aplicación es la carencia de ayuda en línea simplemente un número al que se puede escribir por whatsapp o un correo electrónico al que escribir. No disponemos de un idioma alternativo ni información sobre accesibilidad.
 
 Valoración numérica : 55 - Moderate
 
