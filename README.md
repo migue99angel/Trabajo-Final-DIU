@@ -69,8 +69,18 @@ Una vez realizado un exhaustivo análisis de la página, en busca de sus puntos 
 
 
 ![Inicio](img/Wireframes/Inicio.png)
+<br>
+
 ![Conócenos](img/Wireframes/Conócenos.png)
+<br>
+
 ![Contacto](img/Wireframes/Contacto.png)
+<br>
+
 ![Tarifas](img/Wireframes/Tarifas.png)
+<br>
+
 ![Salas de reuniones](img/Wireframes/Reservarsaladereuniones.png)
+<br>
+
 ![FAQs](img/Wireframes/FAQs.png)
