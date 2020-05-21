@@ -34,7 +34,7 @@ _**1.c User Journey Map**_
 
 _**1.d Usability Review**_
 
-En general la página cuenta con varias deficiencias como lo son, carencia de buscador, falta de funcionalidad para reservar una oficina a través de la web, presupuestos y además contiene información redundante. Encontramos también páginas demasiado largas en las que se pierde mucho tiempo haciendo scroll.
+En general la página cuenta con varias deficiencias como lo son, carencia de buscador, falta de funcionalidad para reservar una sala de reuniones a través de la web, presupuestos y además contiene información redundante. Encontramos también páginas demasiado largas en las que se pierde mucho tiempo haciendo scroll.
 
 Algo más que encontramos en la aplicación es la carencia de ayuda en línea simplemente un número al que se puede escribir por whatsapp o un correo electrónico al que escribir. No disponemos de un idioma alternativo ni información sobre accesibilidad.
 
@@ -49,12 +49,28 @@ Valoración numérica : 55 - Moderate
 
 
 _**2.a Feedback Capture Grid**_
-
-
 ----
 
 | **Interesante**<br>                                                                                                                                                                                                                                                    | **Críticas**<br>                                                                                                                                                                                                                                                                                                                                                 |
 |-----|-----|
-| |                                                                             |
+|  Me parece interesante el hecho de que la barra de navegación te acompañe en cada momento durante la navegación en la web.<br>Los iconos y la manera de representar los servicios de los que disponen las oficionas me parece un punto acertado porque es llamativa, amigable a la par que expresa toda la información necesaria.<br>En todo momento se aprecia el icono para contactar a través de whatsapp| No aparece ninguna información relativa a las tarifas o al precio que costaría un alquiler de una sala de reuniones en un momento puntual.<br> No hay sección de preguntas frecuentes <br>No se puede consultar la página en ningún lenguaje alternativo. <br> En la pestaña inicio y en la pestaña coworking aparece exactamente la misma información                                                                    |
 | <div align="center">**Preguntas**</div>                                                                                                                                                                                                                                 | <div align="center">**Nuevas ideas**</div>                                                                                                                                                                                                                                                                                                                       |
-||  |
+| ¿Se podría conocer información de las empresas que trabajan en el establecimiento para que nuevos usuarios puedan conocer el ambiente de trabajo que tendrían con sus futuros compañeros ?<br>¿Se podrían conocer con detalle el material técnico del que se dispone para empresas con necesidades específicas (calidad del proyector de la sala de reuniones, altavoces etc...)?<br>¿Se podría conocer la información de accesibilidad al local para personas con movilidad reducida (rampas, ascensor ...)? | Añadir un buscador para agilizar la navegación por el sitio<br>Una galería bien hecha, que permita visualizar las imagenes en pantalla completa<br>Un horario que muestre los días en los que las salas de reuniones u oficinas se encuentra en una ocupación inferior al aforo.<br>Añadir una forma de reservar una sala de reuniones o entrar en la contratación del servicio.
+ |
+
+ > Como propuesta de valor se propone la creación de un sitio web que elimine la información redundante (ya que en varias pestañas del sitio actual aparece exactamente la misma información), mejor estructurada y añadiendo contenido para que aporte más información a los usuarios, como son una sección con tarifas o un apartado en el que aparezca que tipos de usuarios trabajan en el local ya que consideró fundamental para acceder a trabajar con una empresa de estas características conocer que personas van a estar en tu ambiente laboral. También se proponen páginas más cortas para facilitar la navegación y la inclusión de un buscador para agilizar la misma. Finalmente se añade la funcionalidad de poder reservar una sala de reuniones o de acceder a trabajar con la empresa de coworking a través de la propia página.
+
+<br>
+
+ _**2.b Wireframes**_
+
+Una vez realizado un exhaustivo análisis de la página, en busca de sus puntos malos y sus ventajas he realizado una serie de wireframes o bocetos de lo que sería el diseño de la web solventando algunos de los problemas que he encontrado.
+
+
+
+![Inicio](img/Wireframes/Inicio.png)
+![Conócenos](img/Wireframes/Conócenos.png)
+![Contacto](img/Wireframes/Contacto.png)
+![Tarifas](img/Wireframes/Tarifas.png)
+![Salas de reuniones](img/Wireframes/Reservarsaladereuniones.png)
+![FAQs](img/Wireframes/FAQs.png)
