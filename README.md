@@ -71,16 +71,37 @@ Una vez realizado un exhaustivo análisis de la página, en busca de sus puntos 
 ![Inicio](img/Wireframes/Inicio.png)
 <br>
 
+![Tarifas](img/Wireframes/Tarifas.png)
+<br>
+
+
+[Aquí puedes consultar todos los bocetos](img/Wireframes)
+
+
+### Patrones de Diseño y Guidelines
+
+Es importante el uso de una tipografía que sea legible, a la par de que muestre cierta seriedad para demostrar seriedad, se utilizará Roboto.
+
+Para la realización de los wireframes se han tenido en cuenta varios patrones de diseño como son los siguientes :
+
+Debido a que se trata de una interfaz móvil se ha utilizado *Call-to-Action Buttons*, ya que es fundamental que el usuario sepa en todo momento cuáles son las funciones que puede realizar. En los formularios (tanto en el de contacto como en el de reserva de sala de reuniones he utilizado) he utilizado el patrón conocido como *Progress Trackers*, ya que cuando un usuario realiza una acción en el sistema es fundamental que reciba una realimentación en cada momento para que conozca el progreso que lleva realizado en esa acción, y cuanto porcentaje le queda por realizar para terminar la tarea que está realizando.
+
 ![Conócenos](img/Wireframes/Conócenos.png)
 <br>
 
 ![Contacto](img/Wireframes/Contacto.png)
 <br>
 
-![Tarifas](img/Wireframes/Tarifas.png)
-<br>
 
-![Salas de reuniones](img/Wireframes/Reservarsaladereuniones.png)
-<br>
+Relacionado con una de las desventajas y parte negativa que encontrabamos en el análisis, hemos usado una barra de búsqueda la cual llevará a una página de resultados bien diseñada, cumpliendo con el patrón *Search Results Design*, ya que cuando un usuario realiza una búsqueda espera que le ayude, remarcando los contenidos que más se asemejan con su búsqueda y los cuáles son más relevantes para el.
 
-![FAQs](img/Wireframes/FAQs.png)
+En el diseño de escritorio se utilizará el patrón *breadcrumb* ya que es muy importante que el usuario sepa en todo momento en que lugar de la página se encuentra. Para la parte movil lo que se ha utilizado para esto es el nombre de la página arriba junto a la barra de navegación.
+
+En cuanto a los *Guidelines* se ha seguido el Material Design de Google, se han tenido varios factores en cuenta, mostrar los partados de la página a través de etiquetas, de forma que el usuario pueda acceder a través de ellas (Inicio, Contacto, FAQs, Conócenos ...). Durante la implementación se mantendrá especial cuidado en que se pueda volver atrás en cada momento. Se prestará especial cuidado para que la transición entre web y la aplicación se haga sin problemas ya que es fundamental para funciones como el pago de la reserva (Pago para el que se propondrán la mayor cantidad de formas de pago posibles).
+
+En cuanto a la paleta de colores se utilizará la siguiente que ha sido generada a través de la siguiente herramienta: https://coolors.co/
+
+![Contacto](img/paletaColores.png)
+
+El objetivo de elegir estas tonalidades pastel es para que el usuario se sienta cómodo navegando por la web y esto le inspire la confianza de que se va a sentir cómodo trabajando en el ámbiente que ofrece Cubikate.
+
