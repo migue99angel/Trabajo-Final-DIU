@@ -32,6 +32,10 @@ _**1.c User Journey Map**_
 
 >He elegido el perfil de Lucía porque representa a las personas que tiene una movilidad reducida, por tanto necesita un local que se adapte perfectamente a sus necesidades. Por otro lado Luisa representa a un potencial cliente de este tipo de negocios, autónomos con presupuestos reducidos que acaban de empezar y para los cuales el costo es algo vital. Así como el material específico que necesitan y un horario muy concreto.
 
+
+<br>
+
+
 _**1.d Metas y puntos a evitar por los usuarios**_
 
 A la hora de diseñar una web es fundamental identificar las metas que tienen los usuarios a la hora de elegir una empresa para coworking.
@@ -48,6 +52,9 @@ A la hora de diseñar una web es fundamental identificar las metas que tienen lo
 - Ambientes de trabajo inadecuados que les impidan realizar su trabajo
 - Local mal comunicado con los medios de transporte
 - Servicios de poca calidad o que no cumplan sus expectativas
+
+
+<br>
 
 _**1.e Usability Review**_
 
@@ -122,3 +129,16 @@ En cuanto a la paleta de colores se utilizará la siguiente que ha sido generada
 
 El objetivo de elegir estas tonalidades pastel es para que el usuario se sienta cómodo navegando por la web y esto le inspire la confianza de que se va a sentir cómodo trabajando en el ámbiente que ofrece Cubikate.
 
+
+
+## Paso 3. Análisis de usabilidad
+
+Como ya he comentado anteriormente, uno de los puntos en los que queremos hacer hincapié en este rediseño de la página es en el tema de de accesibilidad, tanto la accesibilidad de la página en sí, como mostrando información de la accesibilidad de la que dispone el local mostrando como servicios los detalles de los que se disponen (ascensor, rampas,  etc ...)
+
+ _**3.a Evaluación de accesibilidad**_
+
+ Para la evaluación de accesibilidad utilizaré una plantilla que ya hemos utilizado anteriormente en la asignatura, [aquí puedes consultar el análisis](img/PlantillaAccesibilidad.jpeg). 
+
+ En el análisis se ha comprobado si se cumplen las pautas de WCAG, para ello he utilizado varias herramientas como lo son: https://wave.webaim.org/  y Accessibility Insights for Web (esta última es un pluggin para Google Chrome).
+
+ Las conclusiones a las que se ha llegado tras el análisis son que la página carece de información de accesibilidad, para el rediseño es importante incorporarla, así como solventar algunos problemas graves que lastran la accesibilidad del sitio web, como lo son los problemas de contraste que perjudican enormente a las personas que sufren de acromatopsia, además las imágenes carecen de texto alternativo para que personas con problemas de visión puedan navegar por el sitio y ningún formulario tiene etiquetas lo que perjudica enormente en la compresión del sentido de los formularios.
