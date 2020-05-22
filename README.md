@@ -32,7 +32,24 @@ _**1.c User Journey Map**_
 
 >He elegido el perfil de Lucía porque representa a las personas que tiene una movilidad reducida, por tanto necesita un local que se adapte perfectamente a sus necesidades. Por otro lado Luisa representa a un potencial cliente de este tipo de negocios, autónomos con presupuestos reducidos que acaban de empezar y para los cuales el costo es algo vital. Así como el material específico que necesitan y un horario muy concreto.
 
-_**1.d Usability Review**_
+_**1.d Metas y puntos a evitar por los usuarios**_
+
+A la hora de diseñar una web es fundamental identificar las metas que tienen los usuarios a la hora de elegir una empresa para coworking.
+
+### Metas
+
+- Los usuarios requieren de un local bien ubicado.
+- Un local con un ambiente de trabajo óptimo para desempeñar su labor.
+- Unos servicios de calidad (Internet estable, local climatizado, etc ...)
+- Compañeros de trabajo en los que puedan encontrar oportunidades de negocio.
+
+### Puntos a evitar
+
+- Ambientes de trabajo inadecuados que les impidan realizar su trabajo
+- Local mal comunicado con los medios de transporte
+- Servicios de poca calidad o que no cumplan sus expectativas
+
+_**1.e Usability Review**_
 
 En general la página cuenta con varias deficiencias como lo son, carencia de buscador, falta de funcionalidad para reservar una sala de reuniones a través de la web, presupuestos y además contiene información redundante. Encontramos también páginas demasiado largas en las que se pierde mucho tiempo haciendo scroll.
 
