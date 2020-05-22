@@ -169,3 +169,8 @@ Finalmente cabe comentar que con el simulador de Parkinsons activado no he tenid
 
 ## Conclusión
 
+Como ya se ha contado a lo largo de todo el trabajo, considero que un rediseño de la web es necesario, añadiendo todos los apartados en los que se ha hecho hincapié. Es necesaria la disminución de la extensión de las páginas ya que la navegación es tediosa. La eliminación de información redundante ya que hay bastante, la adición de un apartado de tarifas o presupuestos para aportar información a los posibles usuarios interesados, aportar testimonios de usuarios que trabajen con Cubikate para mostrar que en el local hay un ambiente óptimo y un largo etcétera.
+
+También es importante el tema de la accesibilidad, tanto adaptar la página para que todo tipo de usuarios puedan acceder a ella, tal y como se ha explicado en el punto anterior, como mostrar información de accesibilidad al local de trabajo ya que potenciales clientes pueden tener necesidades concretas de movilidad (era el caso de la persona ficticia 1), o puede ocurrir que haya una reunión en alguna de las distintas salas de reuniones, a la que tengan que acudir personas con dichas necesidades.
+
+Considero que este trabajo, y en general la asignatura nos ha servido para darnos cuenta de los detalles que tenemos que tener en cuenta a la hora de desarrollar cualquier interfaz de usuario, por qué poner el botón ahí y no en otro sitio, o por qué utilizar una gama cromática en lugar de otra. Son detalles en los que usualmente no nos centramos cuando estamos programando el front-end de nuestro sitio web y al fin y al cabo son los detalles que hacen que una persona tenga una buena experiencia en la navegación y por tanto vuelva en un futuro.
