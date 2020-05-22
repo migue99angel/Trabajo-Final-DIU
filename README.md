@@ -135,10 +135,15 @@ El objetivo de elegir estas tonalidades pastel es para que el usuario se sienta 
 
 Como ya he comentado anteriormente, uno de los puntos en los que queremos hacer hincapié en este rediseño de la página es en el tema de de accesibilidad, tanto la accesibilidad de la página en sí, como mostrando información de la accesibilidad de la que dispone el local mostrando como servicios los detalles de los que se disponen (ascensor, rampas,  etc ...)
 
- _**3.a Evaluación de accesibilidad**_
+Para la evaluación de accesibilidad utilizaré una plantilla que ya hemos utilizado anteriormente en la asignatura, [aquí puedes consultar el análisis](img/PlantillaAccesibilidad.jpeg). 
 
- Para la evaluación de accesibilidad utilizaré una plantilla que ya hemos utilizado anteriormente en la asignatura, [aquí puedes consultar el análisis](img/PlantillaAccesibilidad.jpeg). 
+En el análisis se ha comprobado si se cumplen las pautas de WCAG, para ello he utilizado varias herramientas como lo son: https://wave.webaim.org/  y Accessibility Insights for Web (esta última es un pluggin para Google Chrome).
 
- En el análisis se ha comprobado si se cumplen las pautas de WCAG, para ello he utilizado varias herramientas como lo son: https://wave.webaim.org/  y Accessibility Insights for Web (esta última es un pluggin para Google Chrome).
+Las conclusiones a las que se ha llegado tras el análisis son que la página carece de información de accesibilidad, para el rediseño es importante incorporarla, así como solventar algunos problemas graves que lastran la accesibilidad del sitio web, como lo son los problemas de contraste que perjudican enormente a las personas que sufren de acromatopsia, además las imágenes carecen de texto alternativo para que personas con problemas de visión puedan navegar por el sitio y ningún formulario tiene etiquetas lo que perjudica enormente en la compresión del sentido de los formularios.
 
- Las conclusiones a las que se ha llegado tras el análisis son que la página carece de información de accesibilidad, para el rediseño es importante incorporarla, así como solventar algunos problemas graves que lastran la accesibilidad del sitio web, como lo son los problemas de contraste que perjudican enormente a las personas que sufren de acromatopsia, además las imágenes carecen de texto alternativo para que personas con problemas de visión puedan navegar por el sitio y ningún formulario tiene etiquetas lo que perjudica enormente en la compresión del sentido de los formularios.
+
+Por todo esto la valoración de accesibilidad que tiene la página es de un 2.5/5
+
+Otro apartado importante es que la página no se encuentra disponible en ningún idioma alternativo (inglés por ejemplo), y esto es gran fallo porque precisamente uno de los públicos a los que va dirigida la página puede encontrarse en personas extrangeras que por negocios vengan a Granada y necesiten una sala de reuniones.
+
+Finalmente cabe comentar que con el simulador de Parkinsons activado no he tenido mucha dificultad adicional en la navegación de la página debido a que los botones son amplios, aunque quizás podrían ser un poco más altos para que resultase más fácil aun.
