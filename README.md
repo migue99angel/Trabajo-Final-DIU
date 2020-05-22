@@ -91,11 +91,15 @@ _**2.a Feedback Capture Grid**_
 Una vez realizado un exhaustivo análisis de la página, en busca de sus puntos malos y sus ventajas he realizado una serie de wireframes o bocetos de lo que sería el diseño de la web solventando algunos de los problemas que he encontrado.
 
 
+<p align="center">
+<img src="img/Wireframes/Inicio.png/">
+</p>
 
-![Inicio](img/Wireframes/Inicio.png)
 <br>
 
-![Tarifas](img/Wireframes/Tarifas.png)
+<p align="center">
+<img src="img/Wireframes/Tarifas.png"/>
+</p>
 <br>
 
 
@@ -110,10 +114,16 @@ Para la realización de los wireframes se han tenido en cuenta varios patrones d
 
 Debido a que se trata de una interfaz móvil se ha utilizado *Call-to-Action Buttons*, ya que es fundamental que el usuario sepa en todo momento cuáles son las funciones que puede realizar. En los formularios (tanto en el de contacto como en el de reserva de sala de reuniones he utilizado) he utilizado el patrón conocido como *Progress Trackers*, ya que cuando un usuario realiza una acción en el sistema es fundamental que reciba una realimentación en cada momento para que conozca el progreso que lleva realizado en esa acción, y cuanto porcentaje le queda por realizar para terminar la tarea que está realizando.
 
-![Conócenos](img/Wireframes/Conócenos.png)
+
+<p align="center">
+<img src="img/Wireframes/Conócenos.png"/>
+</p>
 <br>
 
-![Contacto](img/Wireframes/Contacto.png)
+<p align="center">
+<img src="img/Wireframes/Contacto.png"/>
+</p>
+<br>
 <br>
 
 
