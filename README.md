@@ -15,6 +15,7 @@ Según la wikipedia, el coworking es una forma de trabajo que permite a profesio
 El primer paso para el rediseño de la web propuesta es analizar exhaustivamente la experiencia de usuario que ofrece la página con el objetivo de encontrar sus puntos fuertes y débiles, y una vez ahí empezar a trabajar para mejorar en los puntos en los que dicha página flaquea y potenciar aquellos en los que destaque.
 
 _**1.a Competitive Analysis**_
+
 Cubikate es una empresa dedicada al coworking que ofrece oficinas en pleno centro de Granada con una gran cantidad de servicios, las 24 horas del día. La he elegido porque tras un rápido vistazo he visto varias cosas que se pueden mejorar y porque la otra alternativa tiene problemas con el servidor y es dificilmente navegable.
 
 _**1.b Personas**_
@@ -135,6 +136,12 @@ En cuanto a los *Guidelines* se ha seguido el Material Design de Google, se han 
 
 En cuanto a la paleta de colores se utilizará la siguiente que ha sido generada a través de la siguiente herramienta: https://coolors.co/
 
+En cuanto al logo, estimo que el logo actual está bastante bien y no veo motivo alguno para cambiarlo.
+
+<p align="center">
+<img src="img/logo.webp"/>
+</p>
+
 ![Contacto](img/paletaColores.png)
 
 El objetivo de elegir estas tonalidades pastel es para que el usuario se sienta cómodo navegando por la web y esto le inspire la confianza de que se va a sentir cómodo trabajando en el ámbiente que ofrece Cubikate.
@@ -157,3 +164,8 @@ Por todo esto la valoración de accesibilidad que tiene la página es de un 2.5/
 Otro apartado importante es que la página no se encuentra disponible en ningún idioma alternativo (inglés por ejemplo), y esto es gran fallo porque precisamente uno de los públicos a los que va dirigida la página puede encontrarse en personas extrangeras que por negocios vengan a Granada y necesiten una sala de reuniones.
 
 Finalmente cabe comentar que con el simulador de Parkinsons activado no he tenido mucha dificultad adicional en la navegación de la página debido a que los botones son amplios, aunque quizás podrían ser un poco más altos para que resultase más fácil aun.
+
+
+
+## Conclusión
+
