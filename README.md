@@ -146,6 +146,9 @@ En cuanto al logo, estimo que el logo actual está bastante bien y no veo motivo
 <img src="img/logo.webp"/>
 </p>
 
+### Vídeo
+
+Finalmente para dejar claro mi rediseño he realizado este [vídeo](https://drive.google.com/file/d/1g2rd9BM4USykVm9p_990qP1W1TddTO_u/view?usp=sharing) exponiendo mi propuesta de valor. 
 
 
 ## Paso 3. Análisis de usabilidad
