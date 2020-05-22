@@ -136,15 +136,15 @@ En cuanto a los *Guidelines* se ha seguido el Material Design de Google, se han 
 
 En cuanto a la paleta de colores se utilizará la siguiente que ha sido generada a través de la siguiente herramienta: https://coolors.co/
 
+![Contacto](img/paletaColores.png)
+
+El objetivo de elegir estas tonalidades pastel es para que el usuario se sienta cómodo navegando por la web y esto le inspire la confianza de que se va a sentir cómodo trabajando en el ámbiente que ofrece Cubikate.
+
 En cuanto al logo, estimo que el logo actual está bastante bien y no veo motivo alguno para cambiarlo.
 
 <p align="center">
 <img src="img/logo.webp"/>
 </p>
-
-![Contacto](img/paletaColores.png)
-
-El objetivo de elegir estas tonalidades pastel es para que el usuario se sienta cómodo navegando por la web y esto le inspire la confianza de que se va a sentir cómodo trabajando en el ámbiente que ofrece Cubikate.
 
 
 
